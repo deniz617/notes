@@ -1,0 +1,10 @@
+Reputation
+Dignity
+CombatLv
+CombatExp
+CombatTotalExp
+JobLv
+JobExp
+JobTotalExp
+FairyElement
+FairyLv
